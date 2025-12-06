@@ -58,13 +58,13 @@ Security/HW7/
 ```
 
 ### 如何執行
-1. **建立虛擬環境 (建議)**:
+1. **啟用虛擬環境**:
+   本專案使用指定的虛擬環境：
    ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # macOS/Linux
+   source /Users/candicewu/virtualenvs/Security_HW_07/bin/activate
    ```
 
-2. **安裝依賴套件**:
+2. **安裝依賴套件** (若尚未安裝):
    ```bash
    pip install requests pandas beautifulsoup4
    ```
@@ -76,5 +76,5 @@ Security/HW7/
    程式執行完畢後，將於同目錄下產生 `movie.csv`。
 
 ---
-**Author**: Antigravity & User
-**Date**: 2025/12/07
+- **Author**: Antigravity & Me
+- **Date**: 2025/12/07
