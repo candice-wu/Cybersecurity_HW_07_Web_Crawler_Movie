@@ -8,11 +8,12 @@
 - [x] **規劃 (Planning)**
     - [x] 分析目標網站結構 (https://ssr1.scrape.center/)
     - [x] 擬定爬蟲實作計畫
-- [/] **實作 (Implementation)**
+- [x] **實作 (Implementation)**
     - [x] 開發 `movie_crawler.py`
-    - [ ] 驗證爬蟲功能 (需爬取所有 10 頁)
-    - [ ] 產生 `movie.csv`
-- [ ] **文件與交付 (Documentation & Delivery)**
-    - [ ] 撰寫 `README.md` (CRISP-DM 架構)
-    - [ ] 驗證所有交付項目
-    - [ ] Push 至遠端 GitHubRepo
+    - [x] 建立 `movie_crawler.ipynb` (Jupyter Notebook)
+    - [x] 驗證爬蟲功能 (使用原本指定的虛擬環境 /Users/candicewu/virtualenvs/Security_HW_07)
+    - [x] 產生 `movie.csv`
+- [x] **文件與交付 (Documentation & Delivery)**
+    - [x] 撰寫 `README.md` (CRISP-DM 架構)
+    - [x] 驗證所有交付項目
+    - [x] Push 至遠端 GitHubRepo (https://github.com/candice-wu/Cybersecurity_HW_07_Web_Crawler_Movie.git)
